@@ -2,7 +2,7 @@
   "name": "pennmush-softcode-tools",
   "displayName": "PennMUSH Softcode Tools",
   "description": "Syntax highlighting, formatting, and signature help for PennMUSH softcode.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "MaruForge",
   "engines": {
     "vscode": "^1.99.0"

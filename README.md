@@ -68,4 +68,10 @@ Contributions are welcome—fork the repo, create a feature branch and open a pu
 
 ---
 
+## Changelog
+
+[Changelog](./CHANGELOG.md)
+
+---
+
 Happy softcoding, and may your `@dig`s never return “That exit already exists” again!
