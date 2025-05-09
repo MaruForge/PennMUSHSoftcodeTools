@@ -11,7 +11,7 @@ PennMUSH Softcode Tools is a Visual Studio Code extension that brings modern edi
 | ![Syntax highlighting](images/syntax-highlighting.png) | **Rich syntax highlighting** for commands, attributes, flags, built-in functions and inline colour codes. |
 | ![Completions](images/completions.gif) | **Context-aware completions** for the top 15 PennMUSH functions and common softcode commands, driven by snippets so you can tab through parameters. |
 | ![Signature help](images/signature-help.gif) | **Signature Help** that shows parameter hints for **every builtin PennMUSH function** as you type, including optional arguments and default values. |
-| ![Diagnostics](images/diagnostics.gif) | **Live diagnostics** for unterminated brackets, unknown functions/attributes and arity (argument-count) errors, with quick-fixes where applicable. |
+| ![Diagnostics](images/diagnostics.png) | **Live diagnostics** for unterminated brackets, unknown functions/attributes and arity (argument-count) errors, with quick-fixes where applicable. |
 | ![Formatter](images/formatter.gif) | **Prettify Softcode** command (⇧⌘P → *PennMUSH: Prettify Softcode*) that wraps long attribute values at `%R`, keeps `%B/%T` inline when sensible, and neatly indents nested functions. |
 
 ---
@@ -20,8 +20,8 @@ PennMUSH Softcode Tools is a Visual Studio Code extension that brings modern edi
 
 | Dependency | Minimum Version | Purpose |
 |------------|-----------------|---------|
-| Visual Studio Code | **¹•⁹⁹** or higher | Brings tree-sitter engines required for incremental parsing. |
-| Node.js | **¹⁶ LTS** (only for local builds) | Needed if you _compile_ the extension from source. Users who install via the Marketplace do **not** require Node. |
+| Visual Studio Code | **v1.99** or higher | Brings tree-sitter engines required for incremental parsing. |
+| Node.js | **v16 LTS** (only for local builds) | Needed if you _compile_ the extension from source. Users who install via the Marketplace do **not** require Node. |
 
 No additional PennMUSH installation is needed—the extension is entirely self-contained.
 
