@@ -46,7 +46,7 @@ Settings are declared under `contributes.configuration` and are fully discoverab
 * Files larger than ~5 MB may experience sluggish formatting on lower-spec machines.
 * The formatter does **not** currently respect user-defined wrapper strings other than `%R`, `%B` and `%T`.
 
-Please log bugs or suggestions on the [GitHub issues page](https://github.com/MaruForge/vscode-pennmush/issues) before raising duplicates.
+Please log bugs or suggestions on the [GitHub issues page](https://github.com/MaruForge/PennMUSHSoftcodeTools/issues) before raising duplicates.
 
 ---
 
