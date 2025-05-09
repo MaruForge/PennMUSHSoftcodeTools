@@ -2,7 +2,7 @@
   "name": "pennmush-softcode-tools",
   "displayName": "PennMUSH Softcode Tools",
   "description": "Syntax highlighting, formatting, and signature help for PennMUSH softcode.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "MaruForge",
   "engines": {
     "vscode": "^1.99.0"
@@ -14,7 +14,7 @@
     "url": "https://github.com/MaruForge/PennMUSHSoftcodeTools.git"
   },
   "bugs": {
-    "url": "https://github.com/maruforge/pennmush-softcode-tools/issues"
+    "url": "https://github.com/MaruForge/PennMUSHSoftcodeTools/issues"
   },
   "homepage": "https://github.com/MaruForge/PennMUSHSoftcodeTools#readme",
   "categories": [

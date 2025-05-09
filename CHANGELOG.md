@@ -6,6 +6,12 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.4] - 2024-05-08
+### Fixed
+- Corrected error in package.json bugs URL.
+
+---
+
 ## [1.0.3] - 2024-05-08
 ### Fixed
 - Cleaned up README.md
