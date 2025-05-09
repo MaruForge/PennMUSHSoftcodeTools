@@ -1,0 +1,33 @@
+{
+  "scopeName": "source.pennmush",
+  "name": "PennMUSH Softcode",
+  "fileTypes": ["mush"],
+  "patterns": [
+    {
+      "match": "@\\w+",
+      "name": "keyword.control.pennmush"
+    },
+    {
+      "match": "\\&\\w+",
+      "name": "variable.parameter.attribute.pennmush"
+    },
+    {
+      "match": "\\{[^}]*\\}",
+      "name": "meta.braces.pennmush"
+    },
+    {
+      "match": "\\([^)]*\\)",
+      "name": "meta.group.pennmush"
+    },
+    {
+      "match": "\\[[^\\]]*\\]",
+      "name": "meta.brackets.pennmush"
+    },
+    {
+      "match": "\"[^\"]*\"",
+      "name": "string.quoted.double.pennmush"
+    }
+  ],
+  "repository": {},
+  "uuid": "9f27a8fe-4321-4b39-9e80-8a9a6dd4e421"
+}
