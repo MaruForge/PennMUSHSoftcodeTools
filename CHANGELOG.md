@@ -6,6 +6,18 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.0.3] - 2024-05-08
+### Fixed
+- Cleaned up README.md
+
+---
+
+## [1.0.2] - 2024-05-08
+### Added
+- Added Visual Studio Marketplace icon.
+
+---
+
 ## [1.0.1] - 2024-05-08
 ### Fixed
 - Corrected minor issue in `README.md` link.

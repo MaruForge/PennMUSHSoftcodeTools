@@ -50,18 +50,6 @@ Please log bugs or suggestions on the [GitHub issues page](https://github.com/Ma
 
 ---
 
-## Release Notes
-
-### 1.0.0 — *“Tribble Trouble”*  
-* Initial public release  
-* Syntax highlighting for commands, functions, flags & colour codes  
-* Snippet-driven completions for top 15 functions  
-* Inline signature help with optional-parameter support  
-* Diagnostics: unmatched brackets, unknown attributes, arity errors  
-* **Prettify Softcode** formatter
-
----
-
 ## Contributing & Licence
 
 Contributions are welcome—fork the repo, create a feature branch and open a pull request. The project is released under the **MIT Licence**; see `LICENCE` for details.
