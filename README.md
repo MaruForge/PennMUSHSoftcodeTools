@@ -1,6 +1,6 @@
 # PennMUSH Softcode Tools README
 
-PennMUSH Softcode Tools is a Visual Studio Code extension that brings modern editing features to PennMUSH softcode. Whether you are maintaining a legacy database or building a brand-new MUSH from scratch, this extension turns VS Code into a fully-fledged PennMUSH IDE—complete with syntax highlighting, IntelliSense-style completions, inline diagnostics and a one-click code formatter.
+PennMUSH Softcode Tools is a Visual Studio Code extension that brings modern editing features to PennMUSH softcode. Whether you are maintaining a legacy database or building a brand-new MUSH from scratch, this extension turns VS Code into a fully-fledged PennMUSH IDE; complete with syntax highlighting, IntelliSense-style completions, inline diagnostics and a one-click code formatter.
 
 ---
 
